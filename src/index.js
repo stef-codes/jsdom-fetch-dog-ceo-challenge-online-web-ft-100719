@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function() {
     } 
 
     //Still Need to Filter Breeds
-  function 
+  //function 
 
 // document.getElementById("myDiv").style.color = "lightblue";
 
